@@ -1,5 +1,5 @@
 # NeuralNetworkPropeller
-Neural Network to Predic Small Propeller Performance
+Neural Network to Predict Small Propeller Performance
 
 
 The file "main.m" reads the experimental data of the propellers in the "Data" folder, to extract Input and Output matrices. This matrices are the input and output data for the neural network you want to trade. 
